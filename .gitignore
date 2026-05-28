@@ -1,8 +1,8 @@
-bin/
-obj/
-
 *.o
 *.depend 
 *.layout
 *.cbp
 *.exe
+
+bin/
+obj/
