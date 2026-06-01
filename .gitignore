@@ -1,7 +1,6 @@
 *.o
 *.depend 
 *.layout
-*.cbp
 *.exe
 
 bin/
